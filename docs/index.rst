@@ -8,6 +8,8 @@ Canvia Developer Guide
    overview/index
    backend/index
    device/index
+   organization/index
+   
 
 
 
